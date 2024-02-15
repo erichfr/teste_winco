@@ -10,3 +10,6 @@ git clone https://github.com/seu-usuario/teste-winco.git
 
 > cd teste-winco
 
+<img align="center" alt="Erich-Php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+          
+
